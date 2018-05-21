@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_BxaXACerEeWxCPrV0pAZQQ">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_lDvzIBKEEeiMzNfppOEu0A" featurename="commands" parentElementId="xpath:/">
+    <elements xsi:type="commands:Command" xmi:id="_pXx0IBKEEeiMzNfppOEu0A" elementId="tr.com.melihaltintas.eclipseintegration.command.detectcodesmellscommand" commandName="Detect Code Smells Command"/>
+    <elements xsi:type="commands:Command" xmi:id="_-h17EDgIEeiTOPHGwR525A" elementId="tr.com.melihaltintas.eclipseintegration.command.generatethesisreport" commandName="Generate Thesis Report"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_r1GLIBKEEeiMzNfppOEu0A" featurename="handlers" parentElementId="xpath:/">
+    <elements xsi:type="commands:Handler" xmi:id="_w2hdoBKEEeiMzNfppOEu0A" elementId="tr.com.melihaltintas.eclipseintegration.handler.0" contributionURI="bundleclass://tr.com.melihaltintas.codesmellplugin/tr.com.melihaltintas.eclipseintegration.handlers.DetectCodeSmellsHandler" command="_pXx0IBKEEeiMzNfppOEu0A"/>
+    <elements xsi:type="commands:Handler" xmi:id="_LbMMEDgJEeiTOPHGwR525A" elementId="tr.com.melihaltintas.codesmellplugin.handler.generatethesisreport" contributionURI="bundleclass://tr.com.melihaltintas.codesmellplugin/tr.com.melihaltintas.eclipseintegration.handlers.GenerateThesisReport" command="_-h17EDgIEeiTOPHGwR525A"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_y4_EoBKEEeiMzNfppOEu0A" featurename="menuContributions" parentElementId="xpath:/">
+    <elements xsi:type="menu:MenuContribution" xmi:id="_0xh6oBKEEeiMzNfppOEu0A" elementId="tr.com.melihaltintas.eclipseintegration.menucontribution.0" parentId="org.eclipse.ui.main.menu">
+      <children xsi:type="menu:HandledMenuItem" xmi:id="_6vd4sBKEEeiMzNfppOEu0A" elementId="tr.com.melihaltintas.eclipseintegration.handledmenuitem.detectcodesmells" label="Find Code Smells" command="_pXx0IBKEEeiMzNfppOEu0A"/>
+      <children xsi:type="menu:HandledMenuItem" xmi:id="_59PugDgIEeiTOPHGwR525A" elementId="tr.com.melihaltintas.codesmellplugin.handledmenuitem.generatethesisreport" label="Generate Thesis Report" command="_-h17EDgIEeiTOPHGwR525A"/>
+    </elements>
+  </fragments>
+</fragment:ModelFragments>
