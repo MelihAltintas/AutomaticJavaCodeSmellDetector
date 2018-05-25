@@ -1,7 +1,9 @@
 # Code Smells Detector
 
-This project is an Eclipse plugin that aims to collect code smells from Java projects
+This project is an Eclipse plugin that aims to collect code smells from Java projects.
+
 ![alt text](https://github.com/MelihAltintas/AutomaticJavaCodeSmellDetectorEclipsePlugin/blob/master/pluginview.png)
+
 # Code Smells Detected
 
 This plugin detects the following 10 types of code smells:
