@@ -9,6 +9,12 @@ APA Altıntaş, M., & Sezer, E. A. Kaynak Kodlardaki Kötü Kokuların Otomatik 
 
 ISO 690 ALTINTAŞ, Melih; SEZER, Ebru Akçapınar. Kaynak Kodlardaki Kötü Kokuların Otomatik Tespiti için Eclipse Eklenti Önerisi.
 
+Chicago Altıntaş, Melih, and Ebru Akçapınar Sezer. "Kaynak Kodlardaki Kötü Kokuların Otomatik Tespiti için Eclipse Eklenti Önerisi."
+
+Harvard Altıntaş, M. and Sezer, E.A., Kaynak Kodlardaki Kötü Kokuların Otomatik Tespiti için Eclipse Eklenti Önerisi.
+
+Vancouver Altıntaş M, Sezer EA. Kaynak Kodlardaki Kötü Kokuların Otomatik Tespiti için Eclipse Eklenti Önerisi.
+
 bibtex
 
 @article{altintacskaynak,
