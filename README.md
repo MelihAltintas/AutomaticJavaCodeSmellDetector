@@ -4,11 +4,13 @@ http://ceur-ws.org/Vol-2201/UYMS_YTM_2018_paper_6.pdf
 for cite:
 
 MLA Altıntaş, Melih, and Ebru Akçapınar Sezer. "Kaynak Kodlardaki Kötü Kokuların Otomatik Tespiti için Eclipse Eklenti Önerisi."
+
 APA Altıntaş, M., & Sezer, E. A. Kaynak Kodlardaki Kötü Kokuların Otomatik Tespiti için Eclipse Eklenti Önerisi.
+
 ISO 690 ALTINTAŞ, Melih; SEZER, Ebru Akçapınar. Kaynak Kodlardaki Kötü Kokuların Otomatik Tespiti için Eclipse Eklenti Önerisi.
 
+bibtex
 
-bibtex cite
 @article{altintacskaynak,
   title={Kaynak Kodlardaki K{\"o}t{\"u} Kokular{\i}n Otomatik Tespiti i{\c{c}}in Eclipse Eklenti {\"O}nerisi},
   author={Alt{\i}nta{\c{s}}, Melih and Sezer, Ebru Ak{\c{c}}ap{\i}nar}
