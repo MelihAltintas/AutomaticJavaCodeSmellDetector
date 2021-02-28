@@ -1,3 +1,6 @@
+#Paper
+http://ceur-ws.org/Vol-2201/UYMS_YTM_2018_paper_6.pdf
+
 # Code Smells Detector
 
 This project is an Eclipse plugin that aims to collect code smells from Java projects.
